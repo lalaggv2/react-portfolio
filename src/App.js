@@ -1,10 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+
 
 function App() {
-  //list of projects,
+  //list of projects, about, lenguages, contact
   return (
-    
+    <About />,
+    <Projects />,
+    <Contact />
   );
 }
 
