@@ -18,7 +18,7 @@ const Projects = ({ user }) => {
               </ProjectTitle>
               <p>{project.summary}</p>
               <ul>
-                {project.images.map((key, image) => (<li>key, <img src={image} key={key} alt="Project Image" /> </li>))}
+                {project.images.map((key, image) => (<li>key, <img src={image} key={key} alt="Project" /> </li>))}
               </ul>
               console.log(image)
               <SkillContainer>
