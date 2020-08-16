@@ -9,6 +9,9 @@ export const ProjectItem = styled.li`
 
 export const ProjectTitle = styled.h4`
   font-weight: bold;
+  a {
+    text-decoration: none;
+  }
 `
 
 export const SkillContainer = styled.div`
