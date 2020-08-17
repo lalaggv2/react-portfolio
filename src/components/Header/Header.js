@@ -14,13 +14,8 @@ const UserHeader = ({ user }) => {
         <div>
           <h2>{user.basics.name}</h2>
           <h4>
-            <a
-              href={`https://gitconnected.com/${user.basics.username}`}
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              @{user.basics.username}
-            </a>
+            <p>{user.basics.username}</p>
+
           </h4>
           <p>{user.basics.label}</p>
           <p>Coding in {user.basics.region}</p>
