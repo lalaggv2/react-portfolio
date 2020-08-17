@@ -86,25 +86,26 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-micro",
+              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-micro",
               "size": 435,
               "width": 32,
               "height": 16
             },
             "thumbnail": {
-              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-thumbnail",
+              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-thumbnail",
               "size": 4180,
               "width": 224,
               "height": 110
             },
             "mobile": {
-              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-mobile",
+              // eslint-disable-next-line no-useless-escape
+              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-mobile",
               "size": 17915,
               "width": 600,
               "height": 296
             },
             "desktop": {
-              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-desktop",
+              "url": "public/images/RecipeBox/RecipeBoxHP.PNG-desktop",
               "size": 45982,
               "width": 1200,
               "height": 591
@@ -114,25 +115,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-micro",
+              "url": "C:public\images\RecipeBox\RecipeBoxHP2.PNG-micro",
               "size": 1636,
               "width": 32,
               "height": 44
             },
             "thumbnail": {
-              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-thumbnail",
+              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-thumbnail",
               "size": 10559,
               "width": 224,
               "height": 310
             },
             "mobile": {
-              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-mobile",
+              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-mobile",
               "size": 43386,
               "width": 600,
               "height": 831
             },
             "desktop": {
-              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-desktop",
+              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-desktop",
               "size": 42645,
               "width": 644,
               "height": 892
@@ -142,25 +143,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-micro",
+              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-micro",
               "size": 816,
               "width": 32,
               "height": 20
             },
             "thumbnail": {
-              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-thumbnail",
+              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-thumbnail",
               "size": 3962,
               "width": 224,
               "height": 137
             },
             "mobile": {
-              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-mobile",
+              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-mobile",
               "size": 13322,
               "width": 600,
               "height": 367
             },
             "desktop": {
-              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-desktop",
+              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-desktop",
               "size": 30939,
               "width": 1200,
               "height": 735
@@ -170,25 +171,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-micro",
+              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-micro",
               "size": 766,
               "width": 32,
               "height": 23
             },
             "thumbnail": {
-              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-thumbnail",
+              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-thumbnail",
               "size": 5744,
               "width": 224,
               "height": 163
             },
             "mobile": {
-              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-mobile",
+              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-mobile",
               "size": 21464,
               "width": 600,
               "height": 437
             },
             "desktop": {
-              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-desktop",
+              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-desktop",
               "size": 54737,
               "width": 1200,
               "height": 874
