@@ -4,13 +4,13 @@ export default {
     "picture": "https://avatars0.githubusercontent.com/u/6589798?v=4",
     "label": "KW Corporation",
     "headline": "Full Stack Developer with interest in UX/UI. HTML, CSS, JS API, Node, SQL, MongoDB, PWA, React\r\n",
-    "summary": null,
+    "summary": "As a professional with a background in the design of living spaces with an interest in function over form,\nI bring those qualities to the web development area. My interest is creating  thorough and user friendly applications that also have elements of good design. For me, functionality  and creating a good user experience is first  and foremost the objective.",
     "website": "https://lalaggv2.github.io/updated-portfolio/",
     "blog": null,
-    "yearsOfExperience": null,
+    "yearsOfExperience": 1,
     "id": "708b6d1c-834c-4349-94e3-68d754dd8e0c",
     "username": "lalaggv2",
-    "karma": 11,
+    "karma": 12,
     "email": "",
     "region": "Stratham, NH",
     "location": {},
@@ -74,10 +74,10 @@ export default {
       "githubUrl": "https://github.com/Kaleighspurio/Project2-Recipe-Box",
       "primaryLanguage": "JavaScript",
       "languages": [
-        "CSS",
-        "JavaScript",
         "HTML",
-        "TSQL"
+        "TSQL",
+        "CSS",
+        "JavaScript"
       ],
       "libraries": [
         "Node, Bootstrap, Express, MongoDB"
@@ -194,34 +194,6 @@ export default {
               "height": 874
             }
           }
-        },
-        {
-          "resolutions": {
-            "micro": {
-              "url": "https://project-images.gitconnectedcontent.com/7a79e875-cce1-4999-aeca-6ab85bad04fe-micro",
-              "size": 1158,
-              "width": 32,
-              "height": 24
-            },
-            "thumbnail": {
-              "url": "https://project-images.gitconnectedcontent.com/7a79e875-cce1-4999-aeca-6ab85bad04fe-thumbnail",
-              "size": 6175,
-              "width": 224,
-              "height": 167
-            },
-            "mobile": {
-              "url": "https://project-images.gitconnectedcontent.com/7a79e875-cce1-4999-aeca-6ab85bad04fe-mobile",
-              "size": 26939,
-              "width": 600,
-              "height": 447
-            },
-            "desktop": {
-              "url": "https://project-images.gitconnectedcontent.com/7a79e875-cce1-4999-aeca-6ab85bad04fe-desktop",
-              "size": 80664,
-              "width": 1200,
-              "height": 893
-            }
-          }
         }
       ],
       "videos": []
@@ -234,9 +206,9 @@ export default {
       "githubUrl": "https://github.com/lalaggv2/Project-1-Professor-Planet",
       "primaryLanguage": "JavaScript",
       "languages": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "libraries": [
         "Materialize, API calls"
@@ -358,27 +330,27 @@ export default {
       "videos": []
     },
     {
-      "name": "scheduler",
-      "displayName": "scheduler",
-      "summary": "Work day scheduler for employees",
-      "website": "",
-      "githubUrl": "https://github.com/lalaggv2/scheduler",
+      "name": "workoutrack",
+      "displayName": "workoutrack",
+      "summary": "Keep track of your workout, either cardio or resistance. Build up and see the charts denoting your progress!!!",
+      "website": "https://workout-tracker2020nh.herokuapp.com/?id=5f2751caa0b2ac0017ec567e",
+      "githubUrl": "https://github.com/lalaggv2/workoutrack",
       "primaryLanguage": "JavaScript",
       "languages": [
+        "HTML",
         "CSS",
-        "JavaScript",
-        "HTML"
+        "JavaScript"
       ],
       "libraries": [],
       "images": [],
       "videos": []
     },
     {
-      "name": "note-taker",
-      "displayName": "note-taker",
-      "summary": "application write and save notes",
-      "website": "",
-      "githubUrl": "https://github.com/lalaggv2/note-taker",
+      "name": "budget-tracker",
+      "displayName": "budget-tracker",
+      "summary": "Maintain your budget on the go with a PWA app that saves your changes when you are offline and updates itself when you get connected again.",
+      "website": "https://secure-dusk-69099.herokuapp.com/",
+      "githubUrl": "https://github.com/lalaggv2/budget-tracker",
       "primaryLanguage": "JavaScript",
       "languages": [
         "JavaScript",
@@ -390,10 +362,145 @@ export default {
       "videos": []
     }
   ],
-  "work": [],
+  "work": [
+    {
+      "company": "Keller Companies",
+      "position": "CAD Drafter/Designer",
+      "website": "",
+      "location": "Manchester, NH",
+      "summary": "",
+      "isCurrentRole": true,
+      "startDate": "2020-03-01",
+      "endDate": "",
+      "start": {
+        "year": 2020,
+        "month": 3
+      },
+      "end": {},
+      "highlights": []
+    },
+    {
+      "company": "Landry Architects",
+      "position": "Architectural Drafter/Designer",
+      "website": "",
+      "location": "Portmouth, NH",
+      "summary": "",
+      "isCurrentRole": false,
+      "startDate": "2018-12-01",
+      "endDate": "2019-08-01",
+      "start": {
+        "year": 2018,
+        "month": 12
+      },
+      "end": {
+        "year": 2019,
+        "month": 8
+      },
+      "highlights": []
+    },
+    {
+      "company": "Art Form Architecture",
+      "position": "Associated Designer",
+      "website": "",
+      "location": "North Hampton, NH",
+      "summary": "",
+      "isCurrentRole": false,
+      "startDate": "2017-03-01",
+      "endDate": "2018-11-01",
+      "start": {
+        "year": 2017,
+        "month": 3
+      },
+      "end": {
+        "year": 2018,
+        "month": 11
+      },
+      "highlights": []
+    }
+  ],
   "publications": [],
-  "education": [],
-  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Hampshire - Professional Development & Training",
+      "area": "Coding Bootcamp",
+      "studyType": "Certificate",
+      "website": "",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01",
+      "start": {
+        "year": 2020,
+        "month": 3
+      },
+      "end": {
+        "year": 2020,
+        "month": 9
+      },
+      "description": "Front-End Web Development\nHTML 5 Web Development\nNode.Js Coding\nJavaScript Coding\nMERN Stack Coding\nJava Back-End Coding\nObject-Oriented Coding",
+      "activities": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Nacional de Colombia",
+      "area": "Environmental Management",
+      "studyType": "Especialization",
+      "website": "",
+      "startDate": "1999-01-01",
+      "endDate": "2000-12-01",
+      "start": {
+        "year": 1999,
+        "month": 1
+      },
+      "end": {
+        "year": 2000,
+        "month": 12
+      },
+      "description": "",
+      "activities": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Nacional de Colombia, Sede Medellin",
+      "area": "Architecture",
+      "studyType": "B. Arch",
+      "website": "",
+      "startDate": null,
+      "endDate": null,
+      "start": {
+        "year": null,
+        "month": null
+      },
+      "end": {
+        "year": null,
+        "month": null
+      },
+      "description": "",
+      "activities": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Scouts of America - Troop 185",
+      "position": "Treasurer",
+      "website": "",
+      "location": "Stratham, NH",
+      "summary": "",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "start": {
+        "year": 2019,
+        "month": null
+      },
+      "end": {
+        "year": null,
+        "month": null
+      },
+      "highlights": []
+    }
+  ],
   "awards": [],
   "languages": [],
   "interests": [],
