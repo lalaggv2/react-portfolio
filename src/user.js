@@ -10,7 +10,7 @@ export default {
     "yearsOfExperience": 1,
     "id": "708b6d1c-834c-4349-94e3-68d754dd8e0c",
     "username": "lalaggv2",
-    "karma": 12,
+    "karma": 13,
     "email": "",
     "region": "Stratham, NH",
     "location": {},
@@ -74,10 +74,10 @@ export default {
       "githubUrl": "https://github.com/Kaleighspurio/Project2-Recipe-Box",
       "primaryLanguage": "JavaScript",
       "languages": [
-        "HTML",
         "TSQL",
-        "CSS",
-        "JavaScript"
+        "HTML",
+        "JavaScript",
+        "CSS"
       ],
       "libraries": [
         "Node, Bootstrap, Express, MongoDB"
@@ -86,26 +86,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-micro",
+              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-micro",
               "size": 435,
               "width": 32,
               "height": 16
             },
             "thumbnail": {
-              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-thumbnail",
+              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-thumbnail",
               "size": 4180,
               "width": 224,
               "height": 110
             },
             "mobile": {
-              // eslint-disable-next-line no-useless-escape
-              "url": "public\images\RecipeBox\RecipeBoxHP.PNG-mobile",
+              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-mobile",
               "size": 17915,
               "width": 600,
               "height": 296
             },
             "desktop": {
-              "url": "public/images/RecipeBox/RecipeBoxHP.PNG-desktop",
+              "url": "https://project-images.gitconnectedcontent.com/24f6e871-746a-409d-b71c-484ab6f8631e-desktop",
               "size": 45982,
               "width": 1200,
               "height": 591
@@ -115,25 +114,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "C:public\images\RecipeBox\RecipeBoxHP2.PNG-micro",
+              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-micro",
               "size": 1636,
               "width": 32,
               "height": 44
             },
             "thumbnail": {
-              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-thumbnail",
+              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-thumbnail",
               "size": 10559,
               "width": 224,
               "height": 310
             },
             "mobile": {
-              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-mobile",
+              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-mobile",
               "size": 43386,
               "width": 600,
               "height": 831
             },
             "desktop": {
-              "url": "public\images\RecipeBox\RecipeBoxHP2.PNG-desktop",
+              "url": "https://project-images.gitconnectedcontent.com/d56b9ef4-b3e3-4857-a94b-0445d2eec7cd-desktop",
               "size": 42645,
               "width": 644,
               "height": 892
@@ -143,25 +142,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-micro",
+              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-micro",
               "size": 816,
               "width": 32,
               "height": 20
             },
             "thumbnail": {
-              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-thumbnail",
+              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-thumbnail",
               "size": 3962,
               "width": 224,
               "height": 137
             },
             "mobile": {
-              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-mobile",
+              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-mobile",
               "size": 13322,
               "width": 600,
               "height": 367
             },
             "desktop": {
-              "url": "public\images\RecipeBox\RecipeBoxrecipe.PNG-desktop",
+              "url": "https://project-images.gitconnectedcontent.com/9f0516c5-4c19-4e10-a58d-00929cb539ba-desktop",
               "size": 30939,
               "width": 1200,
               "height": 735
@@ -171,25 +170,25 @@ export default {
         {
           "resolutions": {
             "micro": {
-              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-micro",
+              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-micro",
               "size": 766,
               "width": 32,
               "height": 23
             },
             "thumbnail": {
-              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-thumbnail",
+              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-thumbnail",
               "size": 5744,
               "width": 224,
               "height": 163
             },
             "mobile": {
-              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-mobile",
+              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-mobile",
               "size": 21464,
               "width": 600,
               "height": 437
             },
             "desktop": {
-              "url": "public\images\RecipeBox\RecipeBoxFavorites.PNG-desktop",
+              "url": "https://project-images.gitconnectedcontent.com/df81ccb5-f35f-433a-abcb-08b55f2286c2-desktop",
               "size": 54737,
               "width": 1200,
               "height": 874
@@ -338,12 +337,125 @@ export default {
       "githubUrl": "https://github.com/lalaggv2/workoutrack",
       "primaryLanguage": "JavaScript",
       "languages": [
-        "HTML",
+        "JavaScript",
         "CSS",
-        "JavaScript"
+        "HTML"
       ],
       "libraries": [],
-      "images": [],
+      "images": [
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/bd80c14e-df4b-4cf2-8b65-53cab2401405-micro",
+              "size": 632,
+              "width": 32,
+              "height": 20
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/bd80c14e-df4b-4cf2-8b65-53cab2401405-thumbnail",
+              "size": 2608,
+              "width": 224,
+              "height": 140
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/bd80c14e-df4b-4cf2-8b65-53cab2401405-mobile",
+              "size": 7689,
+              "width": 600,
+              "height": 375
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/bd80c14e-df4b-4cf2-8b65-53cab2401405-desktop",
+              "size": 9560,
+              "width": 998,
+              "height": 624
+            }
+          }
+        },
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/9d9806bd-e66f-480a-b5a1-b79ced2d5301-micro",
+              "size": 784,
+              "width": 32,
+              "height": 25
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/9d9806bd-e66f-480a-b5a1-b79ced2d5301-thumbnail",
+              "size": 3243,
+              "width": 224,
+              "height": 178
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/9d9806bd-e66f-480a-b5a1-b79ced2d5301-mobile",
+              "size": 9956,
+              "width": 600,
+              "height": 476
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/9d9806bd-e66f-480a-b5a1-b79ced2d5301-desktop",
+              "size": 11913,
+              "width": 998,
+              "height": 792
+            }
+          }
+        },
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/dc7d2e2c-1922-4241-a1f5-482a2eb3f8a0-micro",
+              "size": 686,
+              "width": 32,
+              "height": 18
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/dc7d2e2c-1922-4241-a1f5-482a2eb3f8a0-thumbnail",
+              "size": 2872,
+              "width": 224,
+              "height": 129
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/dc7d2e2c-1922-4241-a1f5-482a2eb3f8a0-mobile",
+              "size": 8802,
+              "width": 600,
+              "height": 344
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/dc7d2e2c-1922-4241-a1f5-482a2eb3f8a0-desktop",
+              "size": 10637,
+              "width": 1000,
+              "height": 574
+            }
+          }
+        },
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/59063bba-f3e2-4e66-a804-cce095bd3564-micro",
+              "size": 861,
+              "width": 32,
+              "height": 19
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/59063bba-f3e2-4e66-a804-cce095bd3564-thumbnail",
+              "size": 4679,
+              "width": 224,
+              "height": 136
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/59063bba-f3e2-4e66-a804-cce095bd3564-mobile",
+              "size": 13591,
+              "width": 600,
+              "height": 365
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/59063bba-f3e2-4e66-a804-cce095bd3564-desktop",
+              "size": 17976,
+              "width": 1010,
+              "height": 615
+            }
+          }
+        }
+      ],
       "videos": []
     },
     {
@@ -359,7 +471,64 @@ export default {
         "CSS"
       ],
       "libraries": [],
-      "images": [],
+      "images": [
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/0149ea8a-9e8a-46cb-9ec4-ba8b79ae14de-micro",
+              "size": 1049,
+              "width": 32,
+              "height": 32
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/0149ea8a-9e8a-46cb-9ec4-ba8b79ae14de-thumbnail",
+              "size": 7657,
+              "width": 224,
+              "height": 227
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/0149ea8a-9e8a-46cb-9ec4-ba8b79ae14de-mobile",
+              "size": 26344,
+              "width": 600,
+              "height": 608
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/0149ea8a-9e8a-46cb-9ec4-ba8b79ae14de-desktop",
+              "size": 26517,
+              "width": 936,
+              "height": 948
+            }
+          }
+        },
+        {
+          "resolutions": {
+            "micro": {
+              "url": "https://project-images.gitconnectedcontent.com/dce961e6-669b-428b-9232-8971d6e0fde7-micro",
+              "size": 1045,
+              "width": 32,
+              "height": 30
+            },
+            "thumbnail": {
+              "url": "https://project-images.gitconnectedcontent.com/dce961e6-669b-428b-9232-8971d6e0fde7-thumbnail",
+              "size": 7586,
+              "width": 224,
+              "height": 209
+            },
+            "mobile": {
+              "url": "https://project-images.gitconnectedcontent.com/dce961e6-669b-428b-9232-8971d6e0fde7-mobile",
+              "size": 26129,
+              "width": 600,
+              "height": 559
+            },
+            "desktop": {
+              "url": "https://project-images.gitconnectedcontent.com/dce961e6-669b-428b-9232-8971d6e0fde7-desktop",
+              "size": 27167,
+              "width": 973,
+              "height": 906
+            }
+          }
+        }
+      ],
       "videos": []
     }
   ],
@@ -484,7 +653,7 @@ export default {
   ],
   "volunteer": [
     {
-      "organization": "Scouts of America - Troop 185",
+      "organization": "Scouts of America - Daniel Webster Council NH - Troop 185",
       "position": "Treasurer",
       "website": "",
       "location": "Stratham, NH",
