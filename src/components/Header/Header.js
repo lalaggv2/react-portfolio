@@ -31,17 +31,17 @@ const UserHeader = ({ user }) => {
         </div>
       </Header>
       <div>
-        <ViewResumeLink
+        {/* <ViewResumeLink
           href={`https://gitconnected.com/${user.basics.username}/resume`}
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > */}
 
-          <span>View Résumé</span>
-          <ArrowRight16 />
+        <span>View Résumé</span>
+        <ArrowRight16 />
         </ViewResumeLink>
       </div>
-    </HeaderContainer>
+    </HeaderContainer >
   );
 };
 

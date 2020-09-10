@@ -4,19 +4,7 @@ import Pages from './pages';
 import user from "./user"
 
 function App() {
-  // const [user, setUser] = useState(null);
-  // useEffect(() => {
-  //   // NOTE: Use your username below
-  //   fetch('https://gitconnected.com/v1/portfolio/lalaggv2')
-  //     .then(res => res.json())
-  //     .then(user => {
-  //       setUser(user);
-  //     });
-  // }, []);
 
-  // if (!user) {
-  //   return <div />;
-  // }
 
   return <Pages user={user} />;
 }
